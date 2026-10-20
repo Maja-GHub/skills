@@ -101,7 +101,7 @@
     "obuild": "^0.4.22",
     "picocolors": "^1.1.1",
     "prettier": "^3.8.1",
-    "simple-git": "^3.27.0",
+    "simple-git": "^4.0.1",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
     "xdg-basedir": "^5.1.0"
